@@ -110,7 +110,7 @@
                     TabIndex: =0
                     Tooltip: ="View item details"
                     Width: =60
-                    X: =Parent.TemplateWidth - Self.Width - 5
+                    X: =599
                     Y: =(Parent.TemplateHeight / 2) - (Self.Height / 2)
                     ZIndex: =4
 
